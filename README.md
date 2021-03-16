@@ -35,5 +35,5 @@ TODO: Detailed writeup
 
 ## Future Work
 - Save and select preset speed settings
-- Fine tune 
+- Fine tune phase control to improve motor operation
 - Make SMD version
