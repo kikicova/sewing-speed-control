@@ -1,6 +1,6 @@
 # Sewing Speed Control Driver
 
-Enables more precise control of a sewing machine with AC motor.
+Enable more precise control of a sewing machine with Arduino and custom PCB.
 
 ## Background and Motivation
 It can be difficult to keep speed steady with the generic "universal" foot pedals. The pedals are sensitive to small changes and speed can quickly get out of control. The lower leg gets fatigued trying to keep pedal in the perfect position, especially when the workspace has with less than ideal ergonomics.
