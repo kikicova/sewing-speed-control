@@ -17,7 +17,7 @@ TODO: Detailed writeup
 - Arduino Uno
 - Foot switch ([example](https://www.adafruit.com/product/423))
 - BT136-600E triac ([data sheet](https://www.mouser.com/datasheet/2/848/bt136-600e-1520534.pdf))
-- MOC3021 optocoupler ([data sheet](https://optoelectronics.liteon.com/upload/download/DS-70-99-0019/MOC302X%20series%20201606.pdf))
+- MOC3021 triac/SCR output optocoupler ([data sheet](https://optoelectronics.liteon.com/upload/download/DS-70-99-0019/MOC302X%20series%20201606.pdf))
 - 4N25 optocoupler ([data sheet](https://optoelectronics.liteon.com/upload/download/DS-70-99-0010/4N2X%20series%20Datasheet%201115.pdf))
 - KBP310G bridge rectifier ([data sheet](https://www.mouser.com/datasheet/2/115/KBP304G-KBP310G-1536400.pdf))
 - 2x 47kΩ 1W resistors
