@@ -20,14 +20,14 @@ TODO: Detailed writeup
 - MOC3021 optocoupler ([data sheet](https://optoelectronics.liteon.com/upload/download/DS-70-99-0019/MOC302X%20series%20201606.pdf))
 - 4N25 optocoupler ([data sheet](https://optoelectronics.liteon.com/upload/download/DS-70-99-0010/4N2X%20series%20Datasheet%201115.pdf))
 - KBP310G bridge rectifier ([data sheet](https://www.mouser.com/datasheet/2/115/KBP304G-KBP310G-1536400.pdf))
-- 2x 47k 1W resistors
-- 330 1W resistor
-- 2x 10k 1/4W resistors
-- 4.7k 1/4W resistor
-- 2.2k 1/4W resistor
-- 330 1/4W resistor
-- 10k rotary potentiometer
-- 0.1u 630V film capacitor
+- 2x 47kΩ 1W resistors
+- 330Ω 1W resistor
+- 2x 10kΩ 1/4W resistors
+- 4.7kΩ 1/4W resistor
+- 2.2kΩ 1/4W resistor
+- 330Ω 1/4W resistor
+- 10kΩ rotary potentiometer
+- 0.1uF 630VDC/280VAC polypropylene film capacitor
 - 2x 1x2 screw terminal blocks
 - 4 pin right-angle header
 - 1A fuse and fuse holder
